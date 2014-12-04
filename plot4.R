@@ -1,6 +1,6 @@
 # Exploratory Data Analysis - Coursera
 # Course Project 1, Problem 4
-# sof 12/03/2014
+# sof 12/03/2014.
 #
 # Navigate to working directory, data file should be in a folder accessible
 # through the following path ./rawdata/household_power_consumption.txt
